@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @Siintya
-- 👀 I’m interested in web development
-- visit my blog: <a href="https://sintya.notion.site/It-s-Liberosis-350b231ce8ea4b648542ba22cc6c428d?pvs=4">My Notion</a>
-<!---
-Siintya/Siintya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 I'm Sintya
+
+🌐 **About Me:**
+
+- 👩‍💻 I’m passionate about **Web Development** and love creating interactive, user-friendly websites.
+- 🎯 My focus areas are front-end development with **HTML, CSS, JavaScript**, and I’m currently exploring **PHP** and **Laravel**.
+- 📈 I’m always learning and improving my skills to stay up-to-date with the latest trends in web development.
+
+🌱 **Currently Learning:**
+
+- 🔧 Deepening my knowledge of **PHP frameworks** like Laravel.
+- 🌍 Learning more about **back-end development** and database management with **PostgreSQL**.
+
+📝 **Visit my blog:**  
+I regularly share thoughts, tutorials, and tips about web development on my blog:  
+[**My Notion Blog**](https://www.notion.so)  
+
+🚀 **Let's connect!**
+
+- 📫 You can reach me at: sintya.ajeng@outlook.com
+- 💬 Feel free to drop me a message if you want to collaborate or chat about web development!
+
