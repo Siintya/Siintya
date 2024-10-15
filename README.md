@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sintya
+# Hi there! I'm Sintya 👋🎯
 
 - 👩‍💻 I’m passionate about **Web Development** and love creating interactive, user-friendly websites.
 - 📈 I’m always learning and improving my skills to stay up-to-date with the latest trends in web development.
